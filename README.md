@@ -1,4 +1,4 @@
-# README — Análisis de Tiendas | Programa Atula LATAM (Oracle)
+# README — Proyecto Guiado Análisis de Tiendas | Programa Atula LATAM (Oracle)
 ## Descripción del Proyecto
 
 Este proyecto forma parte de un desafío del programa Atula LATAM de Oracle, cuyo objetivo es aplicar técnicas de análisis de datos para apoyar la toma de decisiones empresariales.
