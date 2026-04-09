@@ -1,45 +1,12 @@
-# README — Proyecto Guiado Análisis de Tiendas | Programa Atula LATAM (Oracle)
-## Descripción del Proyecto
+# Análisis de Rentabilidad de Tiendas
 
-Este proyecto forma parte de un desafío del programa Atula LATAM de Oracle, cuyo objetivo es aplicar técnicas de análisis de datos para apoyar la toma de decisiones empresariales.
-
-A partir de un conjunto de datos de ventas, se realizó un análisis comparativo entre cuatro tiendas con el fin de determinar cuál de ellas debería ser vendida por el Sr. Juan, considerando distintos factores financieros y operativos.
-
-## Objetivo
-
-El objetivo principal del proyecto es:
-
-Analizar el desempeño de cuatro tiendas y recomendar, con base en datos y visualizaciones, cuál debería ser vendida.
-
-Para ello, se tuvieron en cuenta los siguientes aspectos:
-
-Ingresos totales por tienda
-
-Categorías de productos más y menos vendidas
-
-Calificación promedio de los clientes
-
-Productos más y menos vendidos
-
-Costo promedio de envío
-
-Evolución de las ventas en el tiempo
-
-## Metodología
-
-El análisis se realizó utilizando Python y la librería Pandas, junto con Matplotlib para la visualización de datos.
-
-Los principales pasos fueron:
-
-Limpieza y preparación de los datos
-
-Conversión de fechas a formato datetime
-
-Cálculo de métricas clave por tienda
-
-Agrupación de datos por mes y categoría
-
-Generación de gráficos comparativos
-
-Interpretación de resultados
+| Sección                         | Contenido                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  **Descripción General**      | Este proyecto analiza el desempeño de cuatro tiendas minoristas a partir de datos de ventas, con el objetivo de identificar la tienda con menor rendimiento y apoyar la toma de decisiones estratégicas. A través del análisis de datos y visualizaciones, se evaluaron indicadores clave para determinar qué tienda genera menor valor y podría considerarse para su venta.                                                      |
+|  **Objetivo de Negocio**      | Identificar la tienda menos rentable mediante un análisis basado en datos y presentar una recomendación clara respaldada por evidencia. <br><br> **Factores analizados:** <br> - Ingresos totales por tienda <br> - Desempeño por categoría de productos <br> - Satisfacción del cliente (calificación promedio) <br> - Productos más y menos vendidos <br> - Costo promedio de envío <br> - Evolución de las ventas en el tiempo |
+|  **Metodología**             | **Pasos realizados:** <br> - Limpieza y preparación de datos <br> - Transformación de variables (fechas, agregaciones) <br> - Análisis exploratorio de datos (EDA) <br> - Cálculo de métricas clave (KPIs) <br> - Visualización de datos <br><br> **Herramientas:** <br> - Python (Pandas, NumPy) <br> - Matplotlib / Seaborn                                                                                                     |
+|  **Principales Hallazgos**    | - Diferencias significativas en ingresos y ventas entre tiendas <br> - Una tienda presenta bajo desempeño de forma consistente <br> - Categorías con baja rotación afectan la rentabilidad                                                                                                                                                                                                                                        |
+|  **Recomendación de Negocio** | Se identificó una tienda como la menos rentable, recomendando su venta debido a su bajo desempeño sostenido en indicadores clave.                                                                                                                                                                                                                                                                                                 |
+|  **Dataset**                  | Datos de ventas que incluyen transacciones, categorías de productos, calificaciones de clientes y costos de envío.                                                                                                                                                                                                                                                                                                                |
+|  **Nota**                     | Proyecto desarrollado como parte de formación en análisis de datos, enfocado en la aplicación de técnicas analíticas a un caso de negocio.                                                                                                                                                                                                                                                                                        |
 
